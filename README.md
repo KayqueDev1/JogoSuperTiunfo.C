@@ -1,4 +1,4 @@
-# JogoSuperTiunfo.C
+# JogoSuperTriunfo.C
 
 #include <stdio.h>
 
